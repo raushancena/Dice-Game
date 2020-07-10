@@ -1,0 +1,32 @@
+#huge
+{
+	background-color: #363636;
+	color: #12cad6;
+	text-align: center;
+
+}
+
+h1
+{
+
+	padding-top: 5%;	
+	font-family: 'Merienda', cursive;
+
+}
+
+h3
+{
+	font-family: 'Yellowtail', cursive;
+}
+
+.col
+{
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.foot
+{
+	background-color: #f4f4f4;
+	height: 100px;
+	
+}
